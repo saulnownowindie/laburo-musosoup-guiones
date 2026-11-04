@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+musosoup_deps.ok
+musosoup_config.json
+musosoup.log
+*.log
+*~
+*.tmp
+INFO COMPLETA/
+LANZAMIENTOS_*.docx
+MUSOSOUP_*_LANZAMIENTOS*.docx
+.DS_Store
+Thumbs.db
+Desktop.ini

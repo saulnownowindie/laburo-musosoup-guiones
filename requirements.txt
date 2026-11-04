@@ -1,0 +1,12 @@
+# Dependencias mínimas de MusoSoup (probadas con Python 3.12.10 en Windows)
+pillow==13.0.0
+python-docx==1.2.0
+pypdf==6.21.2
+PyMuPDF==2.0
+striprtf==0.0.34
+openpyxl==3.1.5
+python-pptx==1.0.2
+pywin32==312
+lxml==6.1.3
+et-xmlfile==2.0.0
+typing_extensions==4.16.0
